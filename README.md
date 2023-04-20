@@ -1,6 +1,5 @@
-# test
+# GitHub使用入门
+https://blog.csdn.net/qq_35246620/article/details/66973794
 
-## git安装
-
-
-##git简单操作
+## 补充
+https://zhuanlan.zhihu.com/p/193140870
